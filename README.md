@@ -7,7 +7,7 @@ Here you'll find my latest resume in PDF format along with key highlights about 
 
 ## 📄 Resume
 
-🔗 [Download Resume (PDF)](./Kirti_resume.pdf)
+🔗 [Download Resume (PDF)](./Kirti.pdf)
 
 ---
 
